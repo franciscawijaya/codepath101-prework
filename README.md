@@ -2,8 +2,8 @@
 ## Namecard IOS prework project for CodePath
 This is a namecard project I created as a prework for CodePath's IOS101 class 
 
+![cropped-demo](https://github.com/user-attachments/assets/64a45a22-b3c1-4027-9be1-8bb2f3ac0c9b)
 
-![namecard-demo (1)](https://github.com/user-attachments/assets/f9f3b6e2-b4d9-4ee5-8af4-665a7bc70717)
 
 ### App Brainstorming for future references 
 **Favorite Apps & Features:** 
