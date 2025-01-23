@@ -2,8 +2,8 @@
 ## Namecard IOS prework project for CodePath
 This is a namecard project I created as a prework for CodePath's IOS101 class 
 
-![namecard-demo](https://github.com/user-attachments/assets/018e0606-29a2-404b-aeba-96c21023ca02)
 
+![namecard-demo (1)](https://github.com/user-attachments/assets/f9f3b6e2-b4d9-4ee5-8af4-665a7bc70717)
 
 ### App Brainstorming for future references 
 **Favorite Apps & Features:** 
@@ -20,7 +20,8 @@ This is a namecard project I created as a prework for CodePath's IOS101 class
    - Bite-sized lessons for quick learning sessions.
    - Progress tracking with fun visuals and milestones.
   
-** Basic app idea **
+## Basic app idea
+
 **SkillSync** is a platform that connects people to exchange skills and work on creative projects together. Users can share what they know, learn new skills, and collaborate in teams. The app features a skill marketplace, project workspaces, live workshops, and a review system to build trust. SkillSync is designed to make learning and collaboration simple, rewarding, and community-driven.
 
 Features include:  
